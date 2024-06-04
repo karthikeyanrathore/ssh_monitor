@@ -1,0 +1,6 @@
+modules:
+  capture:
+    user: vagrant
+    private_key: /.ssh/id_ed25519
+    output_metric: true
+    output_truncate: 50
